@@ -1,21 +1,37 @@
-# 📚 Data Structure Practice: 100 LeetCode Problems (Roadmap)
-
-This repository serves as a **Progress Tracker & Solution Archive** for the 100 Data Structure problems assigned as a **Bonus Task** by **Bijon Mallik Sir**.
-
 <div align="center">
 
-| **Course** | Data Structure |
-| :--- | :--- |
-| **Instructor** | Bijon Mallik Sir |
-| **Student** | Md. Adnan Sami |
-| **Status** | 🚧 Work In Progress |
+<h1>📚 Data Structure Practice: 100 LeetCode Problems</h1>
+<p><b>Bonus Task | Progress Tracker & Solution Archive</b></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 Course Details</h3>
+      <b>Course Name:</b> Data Structure<br>
+      <b>Instructor:</b> Bijon Mallik Sir<br>
+      <b>Institution:</b> BUBT
+    </td>
+    <td align="center" width="50%">
+      <h3>👨‍💻 Student Details</h3>
+      <b>Name:</b> Md. Adnan Sami<br>
+      <b>ID:</b> 20255103068<br>
+      <b>Intake:</b> 55 | <b>Section:</b> 02
+    </td>
+  </tr>
+</table>
+
+<br>
+<img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge&logo=clock" alt="Status" />
+<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c%2B%2B" alt="C" />
 
 </div>
 
 ---
 
 ### 🎯 Goal
-To solve 100 problems covering fundamental Data Structures to master C++ and problem-solving skills.
+To solve **100 problems** covering fundamental Data Structures to master C++ and problem-solving skills for the Data Structure course bonus task.
+
+---
 
 ### 📝 Progress Checklist
 
@@ -141,5 +157,5 @@ To solve 100 problems covering fundamental Data Structures to master C++ and pro
 
 ---
 <div align="center">
-  Happy Coding! from Adnan 🚀
+  Happy Coding! 🚀
 </div>
