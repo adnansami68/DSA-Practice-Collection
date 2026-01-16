@@ -1,6 +1,9 @@
 <div align="center">
 
 <h1>📚 Data Structure Practice: 100 LeetCode Problems</h1>
+<img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge&logo=clock" alt="Status" />
+<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c++%2B%2B" alt="C++" />
+
 <p><b>Bonus Task | Progress Tracker & Solution Archive</b></p>
 
 <table align="center">
@@ -20,9 +23,6 @@
   </tr>
 </table>
 
-<br>
-<img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge&logo=clock" alt="Status" />
-<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c++%2B%2B" alt="C++" />
 
 </div>
 
