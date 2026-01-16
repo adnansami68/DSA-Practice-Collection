@@ -22,7 +22,7 @@
 
 <br>
 <img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge&logo=clock" alt="Status" />
-<img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c%2B%2B" alt="C" />
+<img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c++%2B%2B" alt="C++" />
 
 </div>
 
